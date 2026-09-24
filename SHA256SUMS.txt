@@ -1,2 +1,7 @@
+# v1.0 时间锚（2026-09-21，当时仅公开哈希、正文在私仓）
+e94c5f1b741aad019535b9cc39b7cbacd65786160208dd73ca26d742ffde76b3  从心论_理论文档_v1.docx
+6072baae2d77bdd418c1d43803f1f2c4ec40a976cb9c5d7ab334231009c7d684  从心论_理论文档_v2.docx
+3add6b9f91139c682eaf7b2432b793fcdf170f9c207dfa5c6668fbcfdf8f2bce  从心论_讨论记录与创作过程.docx
+# v1.6 公开发布（2026-09-23 完本）
 d758e7d3350225ef8e4b09dd3f61e4245a6375f0df7feda85940a8a6dc41d87b  从心论_公理集_v1.6_非完版.docx
 4f84214738c717865788afffc03b9da62e28e9caf6bf9d2533ad11c22f5c2db3  从心论_公理集_v1.6_非完版.pdf
